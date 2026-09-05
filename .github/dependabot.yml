@@ -24,7 +24,6 @@ updates:
     rebase-strategy: "auto"
     allow:
       - dependency-type: "all"
-    ignore: []
 
   # NPM dependencies
   - package-ecosystem: "npm"
@@ -50,4 +49,3 @@ updates:
     rebase-strategy: "auto"
     allow:
       - dependency-type: "all"
-    ignore: []
